@@ -2,6 +2,9 @@
 
 A clone of Pinterest, built with HTML, CSS, JavaScript, Express.js, MongoDB, Passport.js, and Tailwind CSS.
 
+## Demo
+[Watch the video demonstration](pinterestClone.mp4)
+
 ## Running the Project
 
 1. Install dependencies: `npm install`
