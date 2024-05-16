@@ -3,7 +3,7 @@
 A clone of Pinterest, built with HTML, CSS, JavaScript, Express.js, MongoDB, Passport.js, and Tailwind CSS.
 
 ## Demo
-[Watch the video demonstration](pinterestClone.mp4)
+[Watch the video demonstration](https://drive.google.com/file/d/1DoXLvCZv9V71sIfHnozmF5LG_GoJ32yy/view?usp=sharing)
 
 ## Running the Project
 
